@@ -89,3 +89,19 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+.banner {
+  text-align: center;
+  display: inline-block;
+  padding: 30px;      
+  border: 2px solid #A47149;
+  border-radius: 16px;
+  background-color: #F5EFE6;
+}
+
+.wrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
